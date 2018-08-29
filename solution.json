@@ -1,0 +1,729 @@
+{
+    "Fashion": [
+        {
+            "title": "Diskon 25% dengan Kartu Kredit BNI di Zalora",
+            "imageurl": "https://m.bnizona.com/files/37236202b2af57d08ef798334b7c4a21.jpg",
+            "merchant": "Zalora",
+            "validuntil": "31 August 2018"
+        },
+        {
+            "title": "Diskon 15% di Berrybenka",
+            "imageurl": "https://m.bnizona.com/files/25bb1580bbcc06b77dcfd42def38a1e3.jpg",
+            "merchant": "BERRYBENKA",
+            "validuntil": "25 March 2019"
+        },
+        {
+            "title": "Diskon 15% di Hijabenka",
+            "imageurl": "https://m.bnizona.com/files/785d9dc3dffbbf1779a6b4485ec24bc0.jpg",
+            "merchant": "Hijabenka",
+            "validuntil": "25 March 2019"
+        },
+        {
+            "title": "Dapatkan Struk Gift Voucher Rp 60.000 di Matahari Dept Store",
+            "imageurl": "https://m.bnizona.com/files/37caa0cfbfda695468c0c9c20cbf1e34.jpg",
+            "merchant": "Matahari Department Store",
+            "validuntil": "25 December 2018"
+        },
+        {
+            "title": "Ekstra diskon Rp 75.000 setiap hari Jumat di MatahariMall.com",
+            "imageurl": "https://m.bnizona.com/files/49ec44b01240fb2e821d559f8e9632e1.jpg",
+            "merchant": "Matahari Mall",
+            "validuntil": "28 December 2018"
+        },
+        {
+            "title": "Diskon hingga 70% + 10% di Levi's Outlet Store",
+            "imageurl": "https://m.bnizona.com/files/ea11973aed89d807ac67c64ec6c4b65f.png",
+            "merchant": "Levi's",
+            "validuntil": "28 February 2019"
+        },
+        {
+            "title": "Diskon 18% setiap hari Jumat di Zalora dengan Kartu Kredit BNI",
+            "imageurl": "https://m.bnizona.com/files/37236202b2af57d08ef798334b7c4a21.jpg",
+            "merchant": "Zalora",
+            "validuntil": "28 December 2018"
+        },
+        {
+            "title": "Dapatkan Voucher Belanja hingga Rp 1 Juta dengan Kartu Kredit BNI Mastercard di Central Department Store Birthday Treat",
+            "imageurl": "https://m.bnizona.com/files/b88ed79eb48fb5fdd705daeda68e6a52.png",
+            "merchant": "Central Department Store",
+            "validuntil": "30 September 2018"
+        },
+        {
+            "title": "Diskon 10% + Cicilan 0% hingga 6 Bulan di Semua Outlet The North Face",
+            "imageurl": "https://m.bnizona.com/files/9baab3461fc4476e45d6aa41ca1313a6.jpg",
+            "merchant": "The North Face",
+            "validuntil": "12 May 2019"
+        },
+        {
+            "title": "Diskon 20% di Giordano, Giordano Junior & Giordano Ladies dengan Kartu Kredit BNI",
+            "imageurl": "https://m.bnizona.com/files/5a4372643447cc557de063955fc5c150.jpg",
+            "merchant": "Giordano",
+            "validuntil": "12 May 2019"
+        }
+    ],
+    "Groceries": [
+        {
+            "title": "Gratis Gula Pasir 1Kg di Mega Supermarket",
+            "imageurl": "https://m.bnizona.com/files/a462537db9f7ff669b7d7c52ff0e1ee8.jpg",
+            "merchant": "Mega Supermarket Abepura dan Waena",
+            "validuntil": "31 December 2018"
+        },
+        {
+            "title": "Gratis Indomie Goreng dan Filma Minyak Goreng di LOTTE Grosir dengan Kartu Kredit BNI",
+            "imageurl": "https://m.bnizona.com/files/1e8f5e4cdcb0564d6e8aac2f18380cb8.jpg",
+            "merchant": "LOTTE Grosir",
+            "validuntil": "30 August 2018"
+        },
+        {
+            "title": "Cashback Rp 60.000 di Hari Hari Pasar Swalayan",
+            "imageurl": "https://m.bnizona.com/files/9dfd8b78569853a9cf99bc26e21b2047.jpg",
+            "merchant": "Hari Hari Pasar Swalayan",
+            "validuntil": "30 September 2018"
+        },
+        {
+            "title": "Gratis voucher Rp 75.000,- setiap Jumat, Sabtu & Minggu di Ranch Market & Farmers Market",
+            "imageurl": "https://m.bnizona.com/themes/default/images/noimage.jpg",
+            "merchant": "Ranch Market & Farmers Market ",
+            "validuntil": "31 August 2018"
+        },
+        {
+            "title": "Gratis Minyak Goreng 2Lt di Diamond Supermaket",
+            "imageurl": "https://m.bnizona.com/files/a5a1077541a9acc42d94b8aa3acad749.jpg",
+            "merchant": "Diamond Supermarket",
+            "validuntil": "28 October 2018"
+        },
+        {
+            "title": "Gratis Voucher Rp 60.000 di Tip Top",
+            "imageurl": "https://m.bnizona.com/files/9ce11ea608637f8f53b4d19220ccb827.jpg",
+            "merchant": "Tip Top Swalayan",
+            "validuntil": "30 September 2018"
+        },
+        {
+            "title": "Gratis Voucher Rp50Ribu di LOTTEMart & LOTTESupermarket",
+            "imageurl": "https://m.bnizona.com/files/ecd824d40bc49ec1a0969bff494fb76b.jpg",
+            "merchant": "LOTTEMart",
+            "validuntil": "31 August 2018"
+        },
+        {
+            "title": "Dapatkan Es Kopi Susu dengan harga Rp 45,- di Podjok Halal",
+            "imageurl": "https://m.bnizona.com/files/91d7d57261aa99e203361886ae6eba4c.jpg",
+            "merchant": "Podjok Halal",
+            "validuntil": "31 August 2018"
+        },
+        {
+            "title": "Potongan langsung 7% di Alfacart",
+            "imageurl": "https://m.bnizona.com/files/dd660949338e2a92c9d63b377bef4083.jpg",
+            "merchant": "Alfacart",
+            "validuntil": "31 August 2018"
+        },
+        {
+            "title": "Diskon 20% setiap hari Jumat di HappyFresh",
+            "imageurl": "https://m.bnizona.com/files/92c9d1c84987216a1841fcb91f6a7e32.jpg",
+            "merchant": "HappyFresh",
+            "validuntil": "31 December 2018"
+        }
+    ],
+    "Food and Beverage": [
+        {
+            "title": "Diskon 15% di Cafe Cartensz",
+            "imageurl": "https://m.bnizona.com/files/d0343c647aea8bb8cb70ce7ff2758b82.jpg",
+            "merchant": "Cafe Carstensz",
+            "validuntil": "31 October 2018"
+        },
+        {
+            "title": "Diskon 10% di 10derloin",
+            "imageurl": "https://m.bnizona.com/files/f5bd6ca20b2c18e9a4abcaad3c1c4249.png",
+            "merchant": "10derloin",
+            "validuntil": "30 April 2019"
+        },
+        {
+            "title": "Diskon 20% di Dago Panyawangan",
+            "imageurl": "https://m.bnizona.com/files/747850294a7f0df72b197b367117a520.jpg",
+            "merchant": "Dago Panyawangan",
+            "validuntil": "30 September 2018"
+        },
+        {
+            "title": "Diskon 20% di Atmosphere Resort Cafe",
+            "imageurl": "https://m.bnizona.com/files/29954bc9e422172672ef36a03c12692e.jpg",
+            "merchant": "Atmosphere Resort Cafe",
+            "validuntil": "30 September 2018"
+        },
+        {
+            "title": "Diskon Rp 730.00 di Makassar Suki & Makassar Cafe",
+            "imageurl": "https://m.bnizona.com/files/50eca9e71e21c6dff6496a7654fa4128.jpg",
+            "merchant": "Makassar Suki & Makassar Cafe",
+            "validuntil": "31 August 2018"
+        },
+        {
+            "title": "Diskon hingga 35% di The Fat Dragon",
+            "imageurl": "https://m.bnizona.com/files/b4b11d0b7a8f6913b8e5d0f4606c272e.jpg",
+            "merchant": "The Fat Dragon",
+            "validuntil": "19 December 2018"
+        },
+        {
+            "title": "Independence Day Deals IDR 129.000 + Free 1 Dessert of The Day",
+            "imageurl": "https://m.bnizona.com/files/16905c8f27d6ff50e5e860351fddbc52.jpg",
+            "merchant": "Fish & Co",
+            "validuntil": "31 August 2018"
+        },
+        {
+            "title": "Diskon 20% Kakatua Tropic Lounge, Bali",
+            "imageurl": "https://m.bnizona.com/files/672289e0f7f1961150de050d67706635.jpg",
+            "merchant": "Kakatua Tropic Lounge, Bali",
+            "validuntil": "31 October 2018"
+        },
+        {
+            "title": "Diskon 15% di Gui Bin Lou, Balikpapan",
+            "imageurl": "https://m.bnizona.com/themes/default/images/noimage.jpg",
+            "merchant": "Gui Bin Lou, Balikpapan",
+            "validuntil": "31 October 2018"
+        },
+        {
+            "title": "Lebih hemat Rp 50.000 untuk layanan pesan antar online di mcdelivery.co.id dan aplikasi",
+            "imageurl": "https://m.bnizona.com/files/212d51814543ce24fcae7f532c2507d5.png",
+            "merchant": "McDonalds",
+            "validuntil": "31 August 2018"
+        }
+    ],
+    "Electronic": [
+        {
+            "title": "Cashback up to IDR 350.000 at Agung Jaya Elektronik",
+            "imageurl": "https://m.bnizona.com/files/cbacb81ea74a1e7c9d8c12449d6cdcb2.jpg",
+            "merchant": "Agung Jaya Elektronik",
+            "validuntil": "31 December 2018"
+        },
+        {
+            "title": "Dapatkan beragam hadiah menarik di Batam Elektronik",
+            "imageurl": "https://m.bnizona.com/themes/default/images/noimage.jpg",
+            "merchant": "Batam Elektronik",
+            "validuntil": "31 August 2018"
+        }
+    ],
+    "Gadget": [
+        {
+            "title": "Top Up Pulsa & Paket Data Indosat bisa dapat pulsa hingga Rp 100.000",
+            "imageurl": "https://m.bnizona.com/files/b038a8f6071c592a2856da30892262f3.jpg",
+            "merchant": "Indosat Oredoo",
+            "validuntil": "31 August 2018"
+        },
+        {
+            "title": "Free Voucher up to Rp 250.000 at Duta Ponsel Pekanbaru",
+            "imageurl": "https://m.bnizona.com/files/39d2d657e67c9768cb99ced1d89b815c.jpg",
+            "merchant": "Duta Ponsel Pekanbaru",
+            "validuntil": "10 October 2018"
+        },
+        {
+            "title": "Gratis logam mulia di Best n Cheap, Pekanbaru",
+            "imageurl": "https://m.bnizona.com/files/7d9625190328a99e51526a48d001e636.jpg",
+            "merchant": "Best N Cheap",
+            "validuntil": "31 August 2018"
+        },
+        {
+            "title": "Kini Pembelian Paket Data Indosat Ooredoo Bisa melalui BNI",
+            "imageurl": "https://m.bnizona.com/files/b038a8f6071c592a2856da30892262f3.jpg",
+            "merchant": "Indosat Oredoo",
+            "validuntil": "31 December 2018"
+        }
+    ],
+    "Home": [
+        {
+            "title": "Diskon hingga 60% di Pacific Hotel Group",
+            "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+            "merchant": "BNI ",
+            "validuntil": "22 December 2018"
+        },
+        {
+            "title": "SHOP & WIN at Atria Furniture 9th Anniversary",
+            "imageurl": "https://m.bnizona.com/files/ce8719968183e95e6f1d2dca8bb5e8a0.jpg",
+            "merchant": "Atria Furniture",
+            "validuntil": "23 September 2018"
+        }
+    ],
+    "Accessories": [
+        {
+            "title": "Cicilan 0% hingga 12 bulan di Diamond World, Semarang",
+            "imageurl": "https://m.bnizona.com/themes/default/images/noimage.jpg",
+            "merchant": "Diamond World, Semarang",
+            "validuntil": "16 September 2018"
+        }
+    ],
+    "Travel": [
+        {
+            "title": "Travelling lebih seru dengan diskon IDR 400K dari Panorama JTB",
+            "imageurl": "https://m.bnizona.com/files/520b51e271430ca87d6d7435a33cca91.jpg",
+            "merchant": "Panorama JTB",
+            "validuntil": "30 September 2018"
+        },
+        {
+            "title": "Terbang Hemat hingga 25% dengan Garuda Indonesia",
+            "imageurl": "https://m.bnizona.com/files/8a69f74e29be0dd428a0c844a4355a0f.jpg",
+            "merchant": "Garuda Indonesia",
+            "validuntil": "31 December 2018"
+        },
+        {
+            "title": "Bundling Paket Golf Fly Stay Bali di BNI Teletravel",
+            "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+            "merchant": "BNI ",
+            "validuntil": "31 December 2018"
+        },
+        {
+            "title": "Jalan – jalan Asik BNI Taplus Muda ",
+            "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+            "merchant": "BNI ",
+            "validuntil": "30 September 2018"
+        },
+        {
+            "title": "Exclusive up to 10% off Halal-Friendly travel offers with BNI Mastercard Credit Card",
+            "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+            "merchant": "BNI ",
+            "validuntil": "15 November 2018"
+        },
+        {
+            "title": "Berbagai penawaran menarik di Traveloka BNI Thursday Deals",
+            "imageurl": "https://m.bnizona.com/files/88654ba2aa90badab80e0cbc453ba2bd.jpg",
+            "merchant": "Traveloka",
+            "validuntil": "27 December 2018"
+        },
+        {
+            "title": "Diskon hingga 40% di Royal Safari Garden",
+            "imageurl": "https://m.bnizona.com/files/69dd43e1f09951fba08bfd867b6c1b93.jpg",
+            "merchant": "Royal Safari Garden",
+            "validuntil": "30 September 2018"
+        },
+        {
+            "title": "Dapatkan complimentary inflight meal pada penerbangan Citilink dengan Kartu Kredit BNI AMEX",
+            "imageurl": "https://m.bnizona.com/files/3afc77d361196938ea059948adfd0fb6.jpg",
+            "merchant": "Citilink",
+            "validuntil": "31 December 2018"
+        },
+        {
+            "title": "Cashback dan Installment 0% Tenor 6 Bulan Paket Tour Website BNI TeleTravel",
+            "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+            "merchant": "BNI ",
+            "validuntil": "10 November 2018"
+        }
+    ],
+    "Hotel": [
+        {
+            "title": "Diskon hingga 40% di Aston Jayapura Hotel & Convention Center",
+            "imageurl": "https://m.bnizona.com/files/20aa3b646b642c2e68275984d6dcefcf.jpg",
+            "merchant": "Aston Jayapura Hotel & Convention Center",
+            "validuntil": "30 November 2018"
+        },
+        {
+            "title": "Diskon hingga 25% di New Metro Hotel, Semarang",
+            "imageurl": "https://m.bnizona.com/files/aa7b52a1c63e7c907309875875facdae.jpg",
+            "merchant": "New Metro Hotel, Semarang",
+            "validuntil": "30 June 2019"
+        },
+        {
+            "title": "Diskon 15% di Aston Kupang Hotel & Convention Center",
+            "imageurl": "https://m.bnizona.com/files/fe4ceaf5861bff9e79f31d71d90eb86e.jpg",
+            "merchant": "Aston Kupang Hotel & Convention Center",
+            "validuntil": "31 May 2019"
+        },
+        {
+            "title": "Diskon hingga 35% di Taksu Sanur Hotel, Bali",
+            "imageurl": "https://m.bnizona.com/files/c79bab7bce9ec2d19afb4ee2053755e6.jpg",
+            "merchant": "Taksu Sanur Hotel, Bali",
+            "validuntil": "31 July 2019"
+        },
+        {
+            "title": "Enjoy 8% savings at Hotels.com with Mastercard",
+            "imageurl": "https://m.bnizona.com/files/751379202c02246cc085646554d524df.JPG",
+            "merchant": "Hotels.com",
+            "validuntil": "31 December 2018"
+        },
+        {
+            "title": "Diskon 20% di Saranam Resort & Spa",
+            "imageurl": "https://m.bnizona.com/files/7b1d5c0f0afc3c1a7c67b2b00a440e67.PNG",
+            "merchant": "Saranam Resort & Spa",
+            "validuntil": "31 July 2019"
+        },
+        {
+            "title": "Diskon hingga 50% di Candi Beach Resort",
+            "imageurl": "https://m.bnizona.com/files/bd35de6cfa34ca402371274fa1c8f223.png",
+            "merchant": "Candi Beach Resort",
+            "validuntil": "31 July 2019"
+        },
+        {
+            "title": "Enjoy 20% Off at ibis Family Indonesia, Malaysia, Singapura",
+            "imageurl": "https://m.bnizona.com/files/a695b24675e026c412245e32f9087cdf.jpg",
+            "merchant": "AccorHotels",
+            "validuntil": "31 October 2018"
+        },
+        {
+            "title": "AccorHotels Yearlong Offer 10% Off",
+            "imageurl": "https://m.bnizona.com/files/a695b24675e026c412245e32f9087cdf.jpg",
+            "merchant": "AccorHotels",
+            "validuntil": "31 December 2018"
+        },
+        {
+            "title": "Enjoy 10% OFF on rooms at Parador Hotels & Resorts",
+            "imageurl": "https://m.bnizona.com/files/5047018fa7f5eb752d7c93874eadd16b.jpg",
+            "merchant": "Parador Hotels & Resorts Group",
+            "validuntil": "31 December 2019"
+        }
+    ],
+    "Health Service": [
+        {
+            "title": "Diskon hingga 20% di RS Hermina Jatinegara",
+            "imageurl": "https://m.bnizona.com/files/893953e16128291659536a9145af5747.jpg",
+            "merchant": "Rs. Hermina Jatinegara",
+            "validuntil": "31 July 2019"
+        },
+        {
+            "title": "Diskon 10% untuk Kamar Inap dan Kamar Operasi di Mayapada Hospital",
+            "imageurl": "https://m.bnizona.com/files/5b11598da24f9bf8d55a98cc2434b38d.jpg",
+            "merchant": "Mayapada Hospital ",
+            "validuntil": "30 September 2018"
+        }
+    ],
+    "Miscellaneous": [
+        {
+            "title": "Diskon hingga 70% di Jemputan Belanja Raya 2018",
+            "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+            "merchant": "BNI ",
+            "validuntil": "31 August 2018"
+        },
+        {
+            "title": "Free Shower Gel and Save up to 50% with BNI Reward Points at The Body Shop",
+            "imageurl": "https://m.bnizona.com/files/52903de310356b05f418241eeb4c00ad.jpg",
+            "merchant": "The Body Shop",
+            "validuntil": "31 August 2018"
+        },
+        {
+            "title": "Bonus Rp 100.000 untuk pembayaran PDAM menggunakan BNI SMS Banking dan BNI Mobile Banking",
+            "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+            "merchant": "BNI ",
+            "validuntil": "31 August 2018"
+        },
+        {
+            "title": "Diskon hingga Rp 50.000 untuk pemesanan Taxi melalui My Blue Bird Apps",
+            "imageurl": "https://m.bnizona.com/files/748c668d823c22349c31566adf44cbd3.jpg",
+            "merchant": "Blue Bird",
+            "validuntil": "31 August 2018"
+        },
+        {
+            "title": "Nikmati diskon spesial naik Grab dengan BNI Mastercard!",
+            "imageurl": "https://m.bnizona.com/files/a028b3b67114537e1701222b1cf2ffa4.jpg",
+            "merchant": "Grab",
+            "validuntil": "16 September 2018"
+        },
+        {
+            "title": "Top Up Pulsa & Paket Data Indosat bisa dapat pulsa hingga Rp 100.000",
+            "imageurl": "https://m.bnizona.com/files/b038a8f6071c592a2856da30892262f3.jpg",
+            "merchant": "Indosat Oredoo",
+            "validuntil": "31 August 2018"
+        },
+        {
+            "title": "Cashback 5% dengan Kartu Kredit BNI di seluruh SPBU",
+            "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+            "merchant": "BNI ",
+            "validuntil": "29 August 2018"
+        },
+        {
+            "title": "Diskon hingga 15% untuk Official Merchandise Asian Games 2018",
+            "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+            "merchant": "BNI ",
+            "validuntil": "30 September 2018"
+        },
+        {
+            "title": "Transaksi Hemat, Pengelolaan Keuangan Makin Mudah dengan BNI Internet Banking",
+            "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+            "merchant": "BNI ",
+            "validuntil": "30 September 2018"
+        },
+        {
+            "title": "Penawaran Spesial di HUT BNI ke-72 dari BNI Taplus, BNI Griya dan BNI Fleksi",
+            "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+            "merchant": "BNI ",
+            "validuntil": "31 August 2018"
+        }
+    ],
+    "Entertainment": [
+        {
+            "title": "Diskon 15% di Malang Night Paradise",
+            "imageurl": "https://m.bnizona.com/files/c682cb357726a2a1b7b0b816b65adc34.jpg",
+            "merchant": "Malang Night Paradise",
+            "validuntil": "13 December 2018"
+        },
+        {
+            "title": "Diskon 20% dan Hemat Hingga 50% dengan BNI Reward Points di Houbii",
+            "imageurl": "https://m.bnizona.com/files/de5f67474434358f53747aadad2442b7.jpg",
+            "merchant": "Houbii Urban Adventure Park",
+            "validuntil": "30 May 2019"
+        },
+        {
+            "title": "Jalan – jalan Asik BNI Taplus Muda ",
+            "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+            "merchant": "BNI ",
+            "validuntil": "30 September 2018"
+        },
+        {
+            "title": "Diskon 20% setiap Sabtu & Minggu di Jawa Timur Park",
+            "imageurl": "https://m.bnizona.com/files/48b328dfc4f08db245f693061c9d7684.jpg",
+            "merchant": "Jawa Timur Park",
+            "validuntil": "31 January 2019"
+        },
+        {
+            "title": "Diskon tempat rekreasi di libur lebaran 2018",
+            "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+            "merchant": "BNI ",
+            "validuntil": "31 December 2018"
+        },
+        {
+            "title": "Diskon Hingga 45% di Jungleland, Sentul",
+            "imageurl": "https://m.bnizona.com/files/e1b8d1ad46291f176ecb2f4b8584241b.jpg",
+            "merchant": "The Jungle",
+            "validuntil": "30 April 2019"
+        },
+        {
+            "title": "Diskon 20% tiket masuk reguler Hawai Waterpark, Malang",
+            "imageurl": "https://m.bnizona.com/files/a0daa507a7fe9818665e35a9c0e5ff42.jpg",
+            "merchant": "Hawai Waterpark - Malang",
+            "validuntil": "15 December 2018"
+        },
+        {
+            "title": "Buy 3 Get 1 Free at CGV Cinemas with BNI Debit Card",
+            "imageurl": "https://m.bnizona.com/files/e9259193c6cabb17890ba7c9b6f1a327.jpg",
+            "merchant": "CGV Cinemas",
+            "validuntil": "29 August 2018"
+        },
+        {
+            "title": "Diskon 40% di Snowbay",
+            "imageurl": "https://m.bnizona.com/files/b8088dbf6932ef3ea705fbaa5c591533.jpg",
+            "merchant": "Snowbay",
+            "validuntil": "30 September 2018"
+        },
+        {
+            "title": "Diskon Hingga 30% di The Jungle Waterpark",
+            "imageurl": "https://m.bnizona.com/files/e1b8d1ad46291f176ecb2f4b8584241b.jpg",
+            "merchant": "The Jungle",
+            "validuntil": "30 September 2018"
+        }
+    ],
+    "BNI Griya": [
+        {
+            "title": "Penawaran Spesial di HUT BNI ke-72 dari BNI Taplus, BNI Griya dan BNI Fleksi",
+            "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+            "merchant": "BNI ",
+            "validuntil": "31 August 2018"
+        }
+    ],
+    "Sports": [
+        {
+            "title": "Diskon Hingga 50% di KiosTix.com untuk Pembelian Tiket Asian Games dengan BNI",
+            "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+            "merchant": "BNI ",
+            "validuntil": "02 September 2018"
+        },
+        {
+            "title": "Diskon 10% + Cicilan 0% hingga 6 Bulan di Semua Outlet Nike",
+            "imageurl": "https://m.bnizona.com/files/fa99c38a91b79717219061b5966a0b58.jpg",
+            "merchant": "Nike",
+            "validuntil": "12 May 2019"
+        }
+    ],
+    "Cicilan 0%": [
+        {
+            "title": "Super Diskon hingga 99% di Shopee 9.9 Super Shopping Day",
+            "imageurl": "https://m.bnizona.com/files/6442e5921355cc03fe86b5b3af607cb8.jpg",
+            "merchant": "Shopee",
+            "validuntil": "09 September 2018"
+        },
+        {
+            "title": "Dapatkan beragam hadiah menarik di Batam Elektronik",
+            "imageurl": "https://m.bnizona.com/themes/default/images/noimage.jpg",
+            "merchant": "Batam Elektronik",
+            "validuntil": "31 August 2018"
+        },
+        {
+            "title": "Ubah Segera Transaksimu ke Cicilan 0% dengan Kartu Kredit BNI",
+            "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+            "merchant": "BNI ",
+            "validuntil": "31 December 2018"
+        },
+        {
+            "title": "Potongan Rp500ribu + FREE 1 Bulan di English First",
+            "imageurl": "https://m.bnizona.com/files/6edca6072af2292b40055aac2fe8c083.jpg",
+            "merchant": "English First",
+            "validuntil": "30 September 2018"
+        },
+        {
+            "title": "Diskon tambahan 15% di promo BNI Thursday Lazada",
+            "imageurl": "https://m.bnizona.com/files/747e145d23f497d430ff8c15fadbebfd.jpg",
+            "merchant": "Lazada",
+            "validuntil": "27 December 2018"
+        },
+        {
+            "title": "Euphoria Japan JCB",
+            "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+            "merchant": "BNI ",
+            "validuntil": "30 September 2018"
+        },
+        {
+            "title": "Ekstra diskon Rp 75.000 setiap hari Jumat di MatahariMall.com",
+            "imageurl": "https://m.bnizona.com/files/49ec44b01240fb2e821d559f8e9632e1.jpg",
+            "merchant": "Matahari Mall",
+            "validuntil": "28 December 2018"
+        },
+        {
+            "title": "Cicilan 0% untuk Berlangganan Tempo Digital",
+            "imageurl": "https://m.bnizona.com/files/363cecdbb915ff0d4518682ba41587f4.jpg",
+            "merchant": "Tempo Digital",
+            "validuntil": "14 November 2018"
+        },
+        {
+            "title": "Nikmati Cicilan 0% atau Hemat hingga 50% dengan BNI Reward Points di Seluruh Outlet Optik Tunggal",
+            "imageurl": "https://m.bnizona.com/files/b56b53095098a4c8b7bf3f1afe0006ba.JPG",
+            "merchant": "Optik Tunggal",
+            "validuntil": "31 December 2018"
+        },
+        {
+            "title": "Diskon 10% + Cicilan 0% hingga 6 Bulan di Semua Outlet The North Face",
+            "imageurl": "https://m.bnizona.com/files/9baab3461fc4476e45d6aa41ca1313a6.jpg",
+            "merchant": "The North Face",
+            "validuntil": "12 May 2019"
+        }
+    ],
+    "Hobbies": [
+        {
+            "title": "Diskon 10% dan Hemat Hingga 50% dengan BNI Reward Points di Gramedia",
+            "imageurl": "https://m.bnizona.com/files/4bc58e2e14edb3f793ddf8e0a23ab82f.jpg",
+            "merchant": "Gramedia",
+            "validuntil": "30 September 2018"
+        },
+        {
+            "title": "Diskon 15% untuk buku impor di Books & Beyond",
+            "imageurl": "https://m.bnizona.com/files/33cdd6f192f0d03c018345f613788c8a.jpg",
+            "merchant": "Books & Beyond",
+            "validuntil": "14 April 2019"
+        },
+        {
+            "title": "Cicilan 0% untuk Berlangganan Tempo Digital",
+            "imageurl": "https://m.bnizona.com/files/363cecdbb915ff0d4518682ba41587f4.jpg",
+            "merchant": "Tempo Digital",
+            "validuntil": "14 November 2018"
+        }
+    ],
+    "Malls": [],
+    "Quiz": [],
+    "e-Commerce": [
+        {
+            "title": "Super Diskon hingga 99% di Shopee 9.9 Super Shopping Day",
+            "imageurl": "https://m.bnizona.com/files/6442e5921355cc03fe86b5b3af607cb8.jpg",
+            "merchant": "Shopee",
+            "validuntil": "09 September 2018"
+        },
+        {
+            "title": "Enjoy 8% savings at Hotels.com with Mastercard",
+            "imageurl": "https://m.bnizona.com/files/751379202c02246cc085646554d524df.JPG",
+            "merchant": "Hotels.com",
+            "validuntil": "31 December 2018"
+        },
+        {
+            "title": "Potongan langsung 7% di Alfacart",
+            "imageurl": "https://m.bnizona.com/files/dd660949338e2a92c9d63b377bef4083.jpg",
+            "merchant": "Alfacart",
+            "validuntil": "31 August 2018"
+        },
+        {
+            "title": "Diskon 25% dengan Kartu Kredit BNI di Zalora",
+            "imageurl": "https://m.bnizona.com/files/37236202b2af57d08ef798334b7c4a21.jpg",
+            "merchant": "Zalora",
+            "validuntil": "31 August 2018"
+        },
+        {
+            "title": "Enjoy 20% Off at ibis Family Indonesia, Malaysia, Singapura",
+            "imageurl": "https://m.bnizona.com/files/a695b24675e026c412245e32f9087cdf.jpg",
+            "merchant": "AccorHotels",
+            "validuntil": "31 October 2018"
+        },
+        {
+            "title": "AccorHotels Yearlong Offer 10% Off",
+            "imageurl": "https://m.bnizona.com/files/a695b24675e026c412245e32f9087cdf.jpg",
+            "merchant": "AccorHotels",
+            "validuntil": "31 December 2018"
+        },
+        {
+            "title": "Lebih hemat Rp 50.000 untuk layanan pesan antar online di mcdelivery.co.id dan aplikasi",
+            "imageurl": "https://m.bnizona.com/files/212d51814543ce24fcae7f532c2507d5.png",
+            "merchant": "McDonalds",
+            "validuntil": "31 August 2018"
+        },
+        {
+            "title": "Diskon 20% setiap hari Jumat di HappyFresh",
+            "imageurl": "https://m.bnizona.com/files/92c9d1c84987216a1841fcb91f6a7e32.jpg",
+            "merchant": "HappyFresh",
+            "validuntil": "31 December 2018"
+        },
+        {
+            "title": "Cashback Rp 1.000.000 + cicilan 0% hingga 24 bulan di www.aksenbelanja.com",
+            "imageurl": "https://m.bnizona.com/files/b1a4b4c0bde16e320515337ac97d45f1.jpg",
+            "merchant": "Aksen Belanja ",
+            "validuntil": "31 August 2018"
+        },
+        {
+            "title": "Diskon Rp 100.000 di BNI Tuesday Deals @ JD.ID",
+            "imageurl": "https://m.bnizona.com/files/4206d03e03d764a3920ffec571a0d983.jpg",
+            "merchant": "JD.id",
+            "validuntil": "25 December 2018"
+        }
+    ],
+    "Automotive": [],
+    "Mall": [
+        {
+            "title": "Get 5% off discount voucher and special gift at Matsuya",
+            "imageurl": "https://m.bnizona.com/files/c876924e3d04f5d3962ef3d14f049f53.jpg",
+            "merchant": "Matsuya Ginza Jepang",
+            "validuntil": "30 April 2019"
+        },
+        {
+            "title": "Dapatkan Voucher Belanja hingga Rp 1 Juta dengan Kartu Kredit BNI Mastercard di Central Department Store Birthday Treat",
+            "imageurl": "https://m.bnizona.com/files/b88ed79eb48fb5fdd705daeda68e6a52.png",
+            "merchant": "Central Department Store",
+            "validuntil": "30 September 2018"
+        }
+    ],
+    "Health": [
+        {
+            "title": "Diskon hingga 20% di RS Hermina Jatinegara",
+            "imageurl": "https://m.bnizona.com/files/893953e16128291659536a9145af5747.jpg",
+            "merchant": "Rs. Hermina Jatinegara",
+            "validuntil": "31 July 2019"
+        },
+        {
+            "title": "Nikmati Cicilan 0% atau Hemat hingga 50% dengan BNI Reward Points di Seluruh Outlet Optik Tunggal",
+            "imageurl": "https://m.bnizona.com/files/b56b53095098a4c8b7bf3f1afe0006ba.JPG",
+            "merchant": "Optik Tunggal",
+            "validuntil": "31 December 2018"
+        }
+    ],
+    "Education": [
+        {
+            "title": "Potongan Rp500ribu + FREE 1 Bulan di English First",
+            "imageurl": "https://m.bnizona.com/files/6edca6072af2292b40055aac2fe8c083.jpg",
+            "merchant": "English First",
+            "validuntil": "30 September 2018"
+        },
+        {
+            "title": "Gratis 2 paket buku tulis untuk pembelian 2 paket buku tulis di Gramedia",
+            "imageurl": "https://m.bnizona.com/files/4bc58e2e14edb3f793ddf8e0a23ab82f.jpg",
+            "merchant": "Gramedia",
+            "validuntil": "31 August 2018"
+        },
+        {
+            "title": "Diskon 10% dan Hemat Hingga 50% dengan BNI Reward Points di Gramedia",
+            "imageurl": "https://m.bnizona.com/files/4bc58e2e14edb3f793ddf8e0a23ab82f.jpg",
+            "merchant": "Gramedia",
+            "validuntil": "30 September 2018"
+        },
+        {
+            "title": "Diskon 15% untuk buku impor di Books & Beyond",
+            "imageurl": "https://m.bnizona.com/files/33cdd6f192f0d03c018345f613788c8a.jpg",
+            "merchant": "Books & Beyond",
+            "validuntil": "14 April 2019"
+        }
+    ]
+}
