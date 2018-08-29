@@ -1,2 +1,4 @@
 # How To Run
-```node solution.js```
+```
+node solution.js
+```
